@@ -1,8 +1,8 @@
-🐢 Turtle Parade (Snake Game)
+## Turtle Parade (Snake Game)
 
 A polished, visually engaging twist on the classic Snake game, built entirely with Python's turtle graphics. Lead a parade of baby turtles, manage your speed, and beat your high score!
 
-✨ Features
+## Features
 
 Custom Game Loop: Built from scratch with grid-based collision detection and movement logic.
 
@@ -14,7 +14,7 @@ Dynamic UI: Real-time Heads-Up Display (HUD) tracking current score, lives, and 
 
 Modern Color Palette: Uses a curated selection of vibrant colors for the baby turtles.
 
-🚀 Installation & Running
+## Installation & Running
 
 This project uses only Python's standard library. No external dependencies are required.
 
@@ -28,7 +28,7 @@ Run the game:
 python main.py
 
 
-🎮 Controls
+## Controls
 
 Arrow Keys: Change direction of the turtle parade.
 
@@ -36,7 +36,7 @@ Space: Play again (after Game Over).
 
 Escape: Quit the application.
 
-🛠️ Technical Details
+## Technical Details
 
 Logic: Object-Oriented Programming (OOP) for game state management.
 
