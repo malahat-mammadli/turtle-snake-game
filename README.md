@@ -19,14 +19,14 @@ Modern Color Palette: Uses a curated selection of vibrant colors for the baby tu
 This project uses only Python's standard library. No external dependencies are required.
 
 Clone the repository:
-
+```bash
 git clone [https://github.com/malahat-mammadli/turtle-snake-game.git](https://github.com/malahat-mammadli/turtle-snake-game.git)
-
+'''
 
 Run the game:
-
+```bash
 python main.py
-
+'''
 
 ## Controls
 
